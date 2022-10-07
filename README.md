@@ -53,3 +53,11 @@ class TestTriangle():
 
 ## Resultado do teste
 ![Result test](result_test.png)
+
+
+## Execução do teste de cobertura coverage
+` coverage html `
+
+
+## Resultado do teste
+![Result Coverage test](result_coverage_test.png)
